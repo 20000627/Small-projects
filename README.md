@@ -1,4 +1,1 @@
-# Small-projects
-# Small-projects
-# Small-projects
-# Small-projects
+此项目用于本人练习小项目，其他概不负责
